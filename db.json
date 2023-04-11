@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "fffff",
+      "lastName": "ffffff",
+      "email": "ffffffff",
+      "naisdate": "2023-04-26T00:00:00.000Z",
+      "gender": "homme",
+      "education": "maha",
+      "company": "ùljmj",
+      "experience": 56,
+      "package": 655,
+      "id": 1
+    },
+    {
+      "firstName": "gavi",
+      "lastName": "pedri",
+      "email": "sergie@fati.fcb",
+      "naisdate": "2023-04-24T00:00:00.000Z",
+      "gender": "homme",
+      "education": "rice",
+      "company": "fcb",
+      "experience": 12,
+      "package": 13,
+      "id": 2
+    },
+    {
+      "firstName": "oamr",
+      "lastName": "ibn",
+      "email": "obarosman@gmail.com",
+      "naisdate": "2023-04-20T00:00:00.000Z",
+      "gender": "homme",
+      "education": "maha",
+      "company": "sale",
+      "experience": 5,
+      "package": 69,
+      "id": 3
+    },
+    {
+      "firstName": "aaaa",
+      "lastName": "aaaaa",
+      "email": "aaaa@aaaa.aa",
+      "naisdate": "2023-04-18T00:00:00.000Z",
+      "gender": "femme",
+      "education": "pomo",
+      "company": "aaaa",
+      "experience": 22,
+      "package": 22,
+      "id": 4
+    },
+    {
+      "firstName": "zaki",
+      "lastName": "mami",
+      "email": "test@test.com",
+      "naisdate": "2023-04-05T00:00:00.000Z",
+      "gender": "homme",
+      "education": "soha",
+      "company": "mamda",
+      "experience": 6465,
+      "package": 66566,
+      "id": 5
+    }
+  ]
+}
